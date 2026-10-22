@@ -6,7 +6,7 @@ I write about Claude Code, LLM agents and RAG at [artka.dev](https://artka.dev).
 
 ## Products
 
-- **[Ogur](https://www.ogur.app)** ([App Store](https://apps.apple.com/app/id6819955741)) — calorie and macro tracker: snap a photo of your meal, say it out loud or scan a receipt, and Ogur counts calories and protein. I'm the lead developer; built under [ogur-develop](https://github.com/ogur-develop).
+- **[Ogur](https://www.ogur.app)** ([App Store](https://apps.apple.com/app/id6819955741)) — calorie and macro tracker: snap a photo of your meal, say it out loud or scan a receipt, and Ogur counts calories and protein. My personal project; I'm the lead developer.
 
 ## Open source
 
