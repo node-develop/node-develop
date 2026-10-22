@@ -20,7 +20,7 @@ I work the way a forward deployed engineer does: sit next to the problem, find t
 
 ## Background
 
-- 6+ years in backend, most recently as staff engineer and team lead of 7 backend developers on a high-load iGaming platform.
+- 8+ years in backend, most recently as staff engineer and team lead of 7 backend developers on a high-load iGaming platform.
 - Built an event-sourced system on Kafka that keeps 20+ microservices consistent and raised system scalability by 50%.
 - Shipped real-time betting services at 700 RPS per instance with latency under 150 ms.
 - Integrated real-money payment providers, including Apple Pay and Google Pay.
