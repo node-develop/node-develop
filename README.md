@@ -1,6 +1,6 @@
 # Artyom Kashuta
 
-AI engineer and backend developer in San Francisco. I build LLM agents and production pipelines on Claude: LangGraph orchestration, RAG, human-in-the-loop review and the boring backend that keeps them reliable.
+AI engineer and backend developer. I build LLM agents and production pipelines on Claude: LangGraph orchestration, RAG, human-in-the-loop review and the boring backend that keeps them reliable.
 
 I write about Claude Code, LLM agents and RAG at [artka.dev](https://artka.dev).
 
